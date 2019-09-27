@@ -18,7 +18,7 @@ DEPENDENCIES = [
     'pygments',
     'pyyaml',
     'six',
-    'tabulate'
+    'tabulate==0.8.3'
 ]
 
 with open('README.rst', 'r', encoding='utf-8') as f:
